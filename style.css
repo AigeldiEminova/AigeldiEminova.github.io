@@ -1,0 +1,15 @@
+body{
+background: #FFFFF0;
+font-weight:700; 
+color: black;
+}
+
+/*Структура сайта*/
+div.mid{width:1000px; margin:0 auto;}
+link {
+	color: red;
+}
+p{
+	font-family: 'Times New Roman", Times, serif;/*Гарнитура текста*/
+	font-size: 14px;
+}	
